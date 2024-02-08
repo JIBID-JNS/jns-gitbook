@@ -1,0 +1,3 @@
+# Problem Statement
+
+In the burgeoning digital economy, the reliance on traditional identity verification methods is increasingly becoming a bottleneck, fraught with inefficiencies and risks that are no longer tenable. Centralized databases present single points of failure, susceptible to breaches that compromise sensitive personal data. Moreover, the current identity management systems are fragmented, resulting in a cumbersome experience for users who must navigate through multiple authentication processes. The aftermath is a digital ecosystem where trust is eroded, and the assurance of one's identity is perennially under question.
